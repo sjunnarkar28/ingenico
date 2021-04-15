@@ -1,0 +1,15 @@
+{
+    "name": "sts/ingenico",
+    "description": "Payment Gateway kit for PHP",
+    "type": "library",
+    "keywords": ["paymentgateway"],
+    "authors": [
+        {
+            "name": "Sachin J",
+            "email": "sachin.junnarkar@sts.in",
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    }
+}
